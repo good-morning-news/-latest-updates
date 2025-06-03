@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap:  https://2021.emnlp.org/sitemap.xml
